@@ -1,0 +1,45 @@
+_repo: Life-s-Handicap--Being-Stories-of-Mine-Own-People_5777
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, R. (Rudyard)
+    - Kipling, Joseph Rudyard
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
+description: 'Indhold: The incarnation of Krishna Mulvaney ; The courting of Dinah
+  Shadd ; On Greenhow Hill ; The man who was ; The head of the district ; Without
+  benefit of clergy ; At the end of the passage ; The mutiny of the Mavericks ; The
+  mark of the beast ; The return of Imray ; Namgay Doola ; The Lang Men o''Larut ;
+  Bertran and Bimi ; Reingelder and the German flag ; The wandering Jew ; Through
+  the fire ; The finances of the gods ; The Amir''s homily ; Jews in Shushan ; The
+  limitations of Pambé Serang ; Little Tobrah'
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5777'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'India -- Social life and customs -- Fiction'
+- !lcsh 'Short stories, English'
+- !lcc 'PR'
+- !lcsh 'India -- History -- British occupation, 1765-1947 -- Fiction'
+- GITenberg
+tableOfContents: 'The Lang men o'' Larut -- Reingelder and the German flag -- The
+  wandering Jew -- Through the fire -- The finances of the gods -- The amir''s homily
+  -- Jews in Shushan -- The limitations of Pambé Serang -- Little Tobrah -- Bubbling
+  Well Road -- ''The city of dreadful night'' -- Georgie Porgie -- Naboth -- The dream
+  of Duncan Parrenness -- The incarnation of Krishna Mulvaney -- The courting of Dinah
+  Shadd -- On Greenhow Hill -- The man who was -- The head of the district -- Without
+  benefit of clergy -- At the end of the passage -- The mutiny of the mavericks --
+  The mark of the beast -- The return of Imray -- Namgay Doola -- Bertran and Bimi
+  -- Moti Guj: mutineer.'
+title: 'Life''s Handicap: Being Stories of Mine Own People'
+url: http://www.gutenberg.org/ebooks/5777
