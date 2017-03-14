@@ -1,5 +1,8 @@
 _repo: Life-s-Handicap--Being-Stories-of-Mine-Own-People_5777
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kipling, Rudyard
@@ -18,6 +21,8 @@ description: 'Indhold: The incarnation of Krishna Mulvaney ; The courting of Din
   Bertran and Bimi ; Reingelder and the German flag ; The wandering Jew ; Through
   the fire ; The finances of the gods ; The Amir''s homily ; Jews in Shushan ; The
   limitations of Pambé Serang ; Little Tobrah'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5777#Life-s-Handicap--Being-Stories-of-Mine-Own-People
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
